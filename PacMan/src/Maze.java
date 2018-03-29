@@ -1,6 +1,5 @@
 
 //*** Maze
-//*** Forouraghi
 
 import java.awt.*;
 import java.io.EOFException;
@@ -11,7 +10,7 @@ import javax.swing.*;
 
 /* ******************************************************************
 ************
-Author¡¯s name(s): Youbin Huang
+AuthorÂ¡Â¯s name(s): Youbin Huang
 Course Title:Artificial Intelligence
 Semester:2017 fall
 Assignment Number homework 2
