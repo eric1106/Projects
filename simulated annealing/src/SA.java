@@ -5,11 +5,9 @@ import java.util.Map;
 
 /* ******************************************************************
 ************
-Author¡¯s name(s):Youbin Huang
+AuthorÂ¡Â¯s name(s):Youbin Huang
 Course Title:Artificial Intelligence
 Semester:2017 Fall
-Assignment Number:homework 2
-Submission Date:Oct 16th
 Purpose: This program :solving TSP by simulationAnnealing algorithm
 Input:
 Output:
@@ -259,7 +257,7 @@ public class SA {
 		int nearbyEnergy = 0;
 		int changeEnergy = 0;
 		int count=0;
-		System.out.println("Tour S 				  	    		  Tour S¡¯ 						E(S) 		E(S¡¯) 				¦¤E");
+		System.out.println("Tour S 				  	    		  Tour SÂ¡Â¯ 						E(S) 		E(SÂ¡Â¯) 				Â¦Â¤E");
 		while (currentTemperature > 0.001) {
 			for (int i = 0; i < 1000; i++) {
 				nearbySolution = currentSolution.setNearbySolution();
